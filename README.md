@@ -41,7 +41,7 @@ Ready-to-use executables (`.exe`) are available in the [`/releases`](/releases) 
 
 ## 🔧 For Developers (Source Code)
 
-The complete C++/Qt source code for each iteration is available in the [`/versions`](/versions) directory.
+The complete C++/Qt source code for each iteration is available in the [`/src`](/src) directory.
 
 *   **v1.0.0, v2.0.0:** Pure C++ (STL containers: map, multimap).
 *   **v3.0.0, v4.0.0:** Qt-based GUI, featuring custom dialog windows, data sorting, and visualization with QCustomPlot library (v4.0.0).
