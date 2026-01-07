@@ -39,16 +39,6 @@ Ready-to-use executables (`.exe`) are available in the [`/releases`](/releases) 
 
 > **Note on Encoding:** Source code for v1 and v2 uses `windows-1251 / CP 1251` encoding.
 
-## 📁 Repository Structure
-QtCpp_system_management_transport_company/
-├── versions/ # Source code for each version (v1, v2, v3, v4)
-├── releases/ # Compiled executables and runtime DLLs for each version
-├── CHANGELOG.md # Development history (English)
-├── CHANGELOG.ru.md # История изменений (Russian)
-├── LICENSE # MIT License
-└── README.md # This file
-
-
 ## 🔧 For Developers (Source Code)
 
 The complete C++/Qt source code for each iteration is available in the [`/versions`](/versions) directory. This showcases the project's evolution from a console application to a full-fledged Qt GUI application with plotting capabilities.
