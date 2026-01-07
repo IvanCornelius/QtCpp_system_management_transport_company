@@ -28,7 +28,7 @@ Vehicles can be new or repaired. Repaired vehicles include additional data about
 
 ## 🚀 Releases & Features by Version
 
-Ready-to-use executables (`.exe`) are available in the [`/releases`](/releases) folder for each version.
+Ready-to-use executables (`.exe`) compiled by 'MinGW 7.3.0 32-bit for C++' are available in the [`/releases`](/releases) folder for each version.
 
 | Version | Interface | Key Features | Download |
 | :--- | :--- | :--- | :--- |
