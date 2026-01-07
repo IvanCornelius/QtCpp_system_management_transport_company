@@ -1,6 +1,6 @@
 # Change history
 
-## [v1] - 2022-05-21
+## [v1.0.0] - 2022-05-21
 ### Added
 - Console interface.
 - It has only basic functionality.
@@ -8,7 +8,7 @@
 - To write the source code, the encoding was used: windows-1251/CP 1251.
 
 
-## [v2] - 2022-11-24
+## [v2.0.0] - 2022-11-24
 ### Added
  - Output of a list of vehicles sorted by year of registration.
 ### Fixed
@@ -17,7 +17,7 @@
 - To write the source code, the encoding was used: windows-1251/CP 1251.
 
 
-## [v3] - 2022-12-10
+## [v3.0.0] - 2022-12-10
 ### Added
  - Window-friendly interface.
  - The ability to open a file and save a database through a dialog box. 
@@ -26,6 +26,6 @@
 - The permissions of the database file have been changed from ".txt" to ".transp". 
 
 
-## [v4] - 2022-12-15
+## [v4.0.0] - 2022-12-15
 ### Added
  - A dialog box with a graph of the remaining mileage of the vehicle.

@@ -32,19 +32,19 @@ Ready-to-use executables (`.exe`) are available in the [`/releases`](/releases) 
 
 | Version | Interface | Key Features | Download |
 | :--- | :--- | :--- | :--- |
-| **v1** (2022-05-21) | Console | Basic functionality for data management. | [QtCpp_system_MTC_v1.exe](/releases/v1/QtCpp_system_MTC_v1.exe) |
-| **v2** (2022-11-24) | Console | Output of a list sorted by registration year. Switched from `vector` to `map`/`multimap` containers. | [QtCpp_system_MTC_v2.exe](/releases/v2/QtCpp_system_MTC_v2.exe) |
-| **v3** (2022-12-10) | **Graphical (Qt)** | GUI, open/save database via dialog, extended sorting options. Database file extension changed to `.transp`. | [QtCpp_system_MTC_v3.exe](/releases/v3/QtCpp_system_MTC_v3.exe) |
-| **v4** (2022-12-15) | Graphical (Qt) | Added a dialog with a plot chart for vehicle remaining mileage. | [QtCpp_system_MTC_v4.exe](/releases/v4/QtCpp_system_MTC_v4.exe) |
+| **v1.0.0** (2022-05-21) | Console | Basic functionality for data management. | [QtCpp_system_MTC_v1.0.0.exe](/releases/v1.0.0/QtCpp_system_MTC_v1.0.0.exe) |
+| **v2.0.0** (2022-11-24) | Console | Output of a list sorted by registration year. Switched from `vector` to `map`/`multimap` containers. | [QtCpp_system_MTC_v2.0.0.exe](/releases/v2.0.0/QtCpp_system_MTC_v2.0.0.exe) |
+| **v3.0.0** (2022-12-10) | **Graphical (Qt)** | GUI, open/save database via dialog, extended sorting options. Database file extension changed to `.transp`. | [QtCpp_system_MTC_v3.0.0.exe](/releases/v3.0.0/QtCpp_system_MTC_v3.0.0.exe) |
+| **v4.0.0** (2022-12-15) | Graphical (Qt) | Added a dialog with a plot chart for vehicle remaining mileage. | [QtCpp_system_MTC_v4.0.0.exe](/releases/v4.0.0/QtCpp_system_MTC_v4.0.0.exe) |
 
-> **Note on Encoding:** Source code for v1 and v2 uses `windows-1251 / CP 1251` encoding.
+> **Note on Encoding:** Source code for v1.0.0 and v2.0.0 uses `windows-1251 / CP 1251` encoding.
 
 ## 🔧 For Developers (Source Code)
 
 The complete C++/Qt source code for each iteration is available in the [`/versions`](/versions) directory. This showcases the project's evolution from a console application to a full-fledged Qt GUI application with plotting capabilities.
 
-*   **v1, v2:** Pure C++ (STL containers: map, multimap).
-*   **v3, v4:** Qt-based GUI, featuring custom dialog windows, data sorting, and visualization with QCustomPlot library (v4).
+*   **v1.0.0, v2.0.0:** Pure C++ (STL containers: map, multimap).
+*   **v3.0.0, v4.0.0:** Qt-based GUI, featuring custom dialog windows, data sorting, and visualization with QCustomPlot library (v4.0.0).
 
 ## 📄 License
 
